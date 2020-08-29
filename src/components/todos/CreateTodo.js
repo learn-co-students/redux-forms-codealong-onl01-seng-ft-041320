@@ -5,7 +5,7 @@ class CreateTodo extends Component {
     return(
       <div>
         Create Todo Component
-      </div>
+      </div> 
     )
   }
 }
